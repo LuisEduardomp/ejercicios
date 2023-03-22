@@ -1,0 +1,15 @@
+D:\Users\LuisEduardomp\code\practicas\Session7\bin\Debug\net7.0\Session7.exe
+D:\Users\LuisEduardomp\code\practicas\Session7\bin\Debug\net7.0\Session7.deps.json
+D:\Users\LuisEduardomp\code\practicas\Session7\bin\Debug\net7.0\Session7.runtimeconfig.json
+D:\Users\LuisEduardomp\code\practicas\Session7\bin\Debug\net7.0\Session7.dll
+D:\Users\LuisEduardomp\code\practicas\Session7\bin\Debug\net7.0\Session7.pdb
+D:\Users\LuisEduardomp\code\practicas\Session7\obj\Debug\net7.0\Session7.csproj.AssemblyReference.cache
+D:\Users\LuisEduardomp\code\practicas\Session7\obj\Debug\net7.0\Session7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\LuisEduardomp\code\practicas\Session7\obj\Debug\net7.0\Session7.AssemblyInfoInputs.cache
+D:\Users\LuisEduardomp\code\practicas\Session7\obj\Debug\net7.0\Session7.AssemblyInfo.cs
+D:\Users\LuisEduardomp\code\practicas\Session7\obj\Debug\net7.0\Session7.csproj.CoreCompileInputs.cache
+D:\Users\LuisEduardomp\code\practicas\Session7\obj\Debug\net7.0\Session7.dll
+D:\Users\LuisEduardomp\code\practicas\Session7\obj\Debug\net7.0\refint\Session7.dll
+D:\Users\LuisEduardomp\code\practicas\Session7\obj\Debug\net7.0\Session7.pdb
+D:\Users\LuisEduardomp\code\practicas\Session7\obj\Debug\net7.0\Session7.genruntimeconfig.cache
+D:\Users\LuisEduardomp\code\practicas\Session7\obj\Debug\net7.0\ref\Session7.dll
