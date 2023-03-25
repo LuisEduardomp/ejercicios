@@ -1,0 +1,15 @@
+D:\Users\LuisEduardomp\code\practica\Seccion8\practica2\bin\Debug\net7.0\practica2.exe
+D:\Users\LuisEduardomp\code\practica\Seccion8\practica2\bin\Debug\net7.0\practica2.deps.json
+D:\Users\LuisEduardomp\code\practica\Seccion8\practica2\bin\Debug\net7.0\practica2.runtimeconfig.json
+D:\Users\LuisEduardomp\code\practica\Seccion8\practica2\bin\Debug\net7.0\practica2.dll
+D:\Users\LuisEduardomp\code\practica\Seccion8\practica2\bin\Debug\net7.0\practica2.pdb
+D:\Users\LuisEduardomp\code\practica\Seccion8\practica2\obj\Debug\net7.0\practica2.csproj.AssemblyReference.cache
+D:\Users\LuisEduardomp\code\practica\Seccion8\practica2\obj\Debug\net7.0\practica2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\LuisEduardomp\code\practica\Seccion8\practica2\obj\Debug\net7.0\practica2.AssemblyInfoInputs.cache
+D:\Users\LuisEduardomp\code\practica\Seccion8\practica2\obj\Debug\net7.0\practica2.AssemblyInfo.cs
+D:\Users\LuisEduardomp\code\practica\Seccion8\practica2\obj\Debug\net7.0\practica2.csproj.CoreCompileInputs.cache
+D:\Users\LuisEduardomp\code\practica\Seccion8\practica2\obj\Debug\net7.0\practica2.dll
+D:\Users\LuisEduardomp\code\practica\Seccion8\practica2\obj\Debug\net7.0\refint\practica2.dll
+D:\Users\LuisEduardomp\code\practica\Seccion8\practica2\obj\Debug\net7.0\practica2.pdb
+D:\Users\LuisEduardomp\code\practica\Seccion8\practica2\obj\Debug\net7.0\practica2.genruntimeconfig.cache
+D:\Users\LuisEduardomp\code\practica\Seccion8\practica2\obj\Debug\net7.0\ref\practica2.dll

@@ -1,0 +1,15 @@
+D:\Users\LuisEduardomp\code\practica\Session9\practica1\bin\Debug\net7.0\practica1.exe
+D:\Users\LuisEduardomp\code\practica\Session9\practica1\bin\Debug\net7.0\practica1.deps.json
+D:\Users\LuisEduardomp\code\practica\Session9\practica1\bin\Debug\net7.0\practica1.runtimeconfig.json
+D:\Users\LuisEduardomp\code\practica\Session9\practica1\bin\Debug\net7.0\practica1.dll
+D:\Users\LuisEduardomp\code\practica\Session9\practica1\bin\Debug\net7.0\practica1.pdb
+D:\Users\LuisEduardomp\code\practica\Session9\practica1\obj\Debug\net7.0\practica1.csproj.AssemblyReference.cache
+D:\Users\LuisEduardomp\code\practica\Session9\practica1\obj\Debug\net7.0\practica1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\LuisEduardomp\code\practica\Session9\practica1\obj\Debug\net7.0\practica1.AssemblyInfoInputs.cache
+D:\Users\LuisEduardomp\code\practica\Session9\practica1\obj\Debug\net7.0\practica1.AssemblyInfo.cs
+D:\Users\LuisEduardomp\code\practica\Session9\practica1\obj\Debug\net7.0\practica1.csproj.CoreCompileInputs.cache
+D:\Users\LuisEduardomp\code\practica\Session9\practica1\obj\Debug\net7.0\practica1.dll
+D:\Users\LuisEduardomp\code\practica\Session9\practica1\obj\Debug\net7.0\refint\practica1.dll
+D:\Users\LuisEduardomp\code\practica\Session9\practica1\obj\Debug\net7.0\practica1.pdb
+D:\Users\LuisEduardomp\code\practica\Session9\practica1\obj\Debug\net7.0\practica1.genruntimeconfig.cache
+D:\Users\LuisEduardomp\code\practica\Session9\practica1\obj\Debug\net7.0\ref\practica1.dll
